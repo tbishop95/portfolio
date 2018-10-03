@@ -281,6 +281,10 @@ header.masthead h2 {
   font-size: 2rem;
 }
 
+.portfolio-modal .portfolio-modal-dialog p {
+  font-size: 1.25rem;
+}
+
 .portfolio-modal img {
   width: 65%;
   height: auto;
